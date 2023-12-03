@@ -127,3 +127,13 @@ out
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+# Ever added
+.eslintrc.json
+.prettierrc
+webpack.config.js
+
+.gitignore
+.prettierignore
