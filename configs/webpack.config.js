@@ -22,14 +22,14 @@ module.exports = {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: 'asset/resource',
         generator: {
-          filename: 'imgs/[name][ext]',
+          filename: 'assets/[name][ext]',
         },
       },
       {
         test: /\.(mp4|webm)$/i,
         type: 'asset/resource',
         generator: {
-          filename: 'imgs/[name][ext]',
+          filename: 'assets/[name][ext]',
         },
       },
     ],
