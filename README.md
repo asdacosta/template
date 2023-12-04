@@ -45,6 +45,13 @@
 ## 📝 Description
 Store all template files.
 
+<details>
+<summary>Features</summary>
+
+* ###
+
+</details>
+
 ## 🎯 Relevance
 To solidify concepts of `###` in ###. 
 
