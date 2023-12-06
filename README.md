@@ -21,6 +21,7 @@
 
 **Demo:**
 
+<img src="./readme-assets/folder.png" alt="folder">
 <!-- ![Live Demo](./readme-assets/) -->
 
 <details>
@@ -34,7 +35,7 @@
 
 **Mobile View:**
 
-<!-- <img src="./readme-assets/mobile.png" alt="desktop view"> -->
+<img src="./readme-assets/mobile.png" alt="desktop view">
 
 
 </details>
