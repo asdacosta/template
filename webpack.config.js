@@ -52,7 +52,7 @@ module.exports = {
       scriptLoading: 'defer',
     }),
   ],
-  // devServer: {
-  //   static: './src',
-  // },
+  devServer: {
+    static: './src',
+  },
 };
