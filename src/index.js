@@ -1,4 +1,5 @@
-import "./style.css";
+import './reset.css';
+import './style.css';
 // import './assets/###.mp4';
 
 const importAllAssets = (function () {
@@ -6,7 +7,5 @@ const importAllAssets = (function () {
     return r.keys().map(r);
   }
 
-  const assets = importAll(
-    require.context("./assets", false, /\.(png|jpe?g|svg)$/)
-  );
+  const assets = importAll(require.context('./assets', false, /\.(png|jpe?g|svg)$/));
 })();
