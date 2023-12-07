@@ -61,9 +61,9 @@ Developers, users, recruiters.
 
 > [!NOTE]
 > Users can install all dependencies using `package.json` file via:
-```bash
-npm install
-```
+> ```bash
+> npm install
+> ```
 
 ## 📂 Files
 <details>
