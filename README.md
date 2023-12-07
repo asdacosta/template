@@ -100,7 +100,7 @@ Developers, users, recruiters.
 
 </details>
 
-## 👤 Contributor & Curator
+## 👤 Curator
 1. [Abraham Da Costa Silvanus](https://github.com/asdacosta) 
 
 <br>
