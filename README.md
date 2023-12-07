@@ -60,7 +60,10 @@ To solidify concepts of `###` in ###.
 Developers, users, recruiters.
 
 > [!NOTE]
-> Users can install all dependencies via `npm install` using `package.json` file.
+> Users can install all dependencies using `package.json` file via:
+```bash
+npm install
+```
 
 ## 📂 Files
 <details>
