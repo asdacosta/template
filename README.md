@@ -77,6 +77,16 @@ Developers, users, and non-developers.
 > ```bash
 > npm install
 > ```
+>
+> To use `manageDeployments.sh`:
+>
+> ```bash
+> sudo apt install gh
+> gh auth login
+> sudo apt-get install jq
+> chmod +x manageDeployments.sh
+> ./manageDeployments.sh
+> ```
 
 ## 📂 Files
 
