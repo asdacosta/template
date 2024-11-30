@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase badge">
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render badge">
     <img src="https://img.shields.io/badge/Neon-00A99D?style=for-the-badge&logo=neon&logoColor=white" alt="Neon badge">
+    <img src="https://img.shields.io/badge/Supertest-222222?style=for-the-badge&logo=supertest&logoColor=white" alt="Supertest badge">
     <!-- <h4><a href="https://asdacosta.github.io/###/">Live Preview</a></h4> -->
 </div>
 
