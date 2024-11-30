@@ -44,12 +44,12 @@
 
 **Desktop View:**
 
-<!-- <img src="./readme-assets/desktop.png" alt="desktop view"> -->
+<!-- <img src="./readme-assets/desktop.jpg" alt="desktop view"> -->
 <br>
 
 **Tablet View:**
 
-<!-- <img src="./readme-assets/tablet.png" alt="desktop view"> -->
+<!-- <img src="./readme-assets/tablet.jpg" alt="desktop view"> -->
 <br>
 
 **Mobile View:**
